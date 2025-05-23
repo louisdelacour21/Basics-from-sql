@@ -1,3 +1,4 @@
+-- sql file
 -- Create the table
 CREATE TABLE Employees (
     ID INT AUTO_INCREMENT PRIMARY KEY,
